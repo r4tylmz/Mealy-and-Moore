@@ -1,0 +1,6 @@
+C:\Users\rain\source\AutomataHW2\AutomataHW2\bin\Debug\AutomataHW2.exe
+C:\Users\rain\source\AutomataHW2\AutomataHW2\bin\Debug\AutomataHW2.pdb
+C:\Users\rain\source\AutomataHW2\AutomataHW2\obj\Debug\AutomataHW2.csprojAssemblyReference.cache
+C:\Users\rain\source\AutomataHW2\AutomataHW2\obj\Debug\AutomataHW2.csproj.CoreCompileInputs.cache
+C:\Users\rain\source\AutomataHW2\AutomataHW2\obj\Debug\AutomataHW2.exe
+C:\Users\rain\source\AutomataHW2\AutomataHW2\obj\Debug\AutomataHW2.pdb
